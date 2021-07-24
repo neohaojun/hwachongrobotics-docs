@@ -61,5 +61,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>Hwa Chong Robotics {new Date().getFullYear()} © Nextra.</>,
+  footerText: <>© {new Date().getFullYear()}, Hwa Chong Robotics. Powered by Nextra.</>,
 }
