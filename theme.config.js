@@ -1,9 +1,10 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/neohaojun/hwachongrobotics',
+  titleSuffix: ' | HCRC',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Hwa Chong Robotics</span>
+      <span><img src="/ms-icon-144x144.png" height="30px" width="30px" /></span>
+      <span className="mr-2 font-extrabold hidden md:inline">‏‏‎ ‎‏‏‎‏‏‎ ‎Hwa Chong Robotics</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         Documentation
       </span>
@@ -15,13 +16,13 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
+      <meta name="description" content="Hwa Chong Robotics Documentation" />
+      <meta name="og:description" content="Hwa Chong Robotics Documentation" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
+      <meta name="twitter:site:domain" content="hwachongrobotics.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="og:title" content="Hwa Chong Robotics Documentation" />
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
@@ -44,6 +45,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditOnGitHubLink: true,
-  footerText: <>© {new Date().getFullYear()}, Hwa Chong Robotics. Powered by Nextra.</>,
+  footerEditOnGitHubLink: false,
+  footerText: <>© {new Date().getFullYear()}, Hwa Chong Robotics. Powered by Nextra. <br />This website only contains documentation. <a href="https://robo.infocommsociety.com/" target="_blank">Hwa Chong Robotics Main Website</a>.</>,
 }
