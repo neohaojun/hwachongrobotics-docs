@@ -16,15 +16,15 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Hwa Chong Robotics Documentation" />
-      <meta name="og:description" content="Hwa Chong Robotics Documentation" />
+      <meta name="description" content="Transcending Boundaries, Pioneering Innovation, Inspiring Change" />
+      <meta name="og:description" content="Transcending Boundaries, Pioneering Innovation, Inspiring Change" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="twitter:image" content="https://hwachongrobotics.vercel.app/og.png" />
       <meta name="twitter:site:domain" content="hwachongrobotics.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Hwa Chong Robotics Documentation" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="twitter:url" content="https://hwachongrobotics.vercel.app" />
+      <meta name="og:title" content="Documentation - Hwa Chong Robotics" />
+      <meta name="og:image" content="https://hwachongrobotics.vercel.app/og.png" />
+      <meta name="apple-mobile-web-app-title" content="Hwa Chong Robotics" />
       <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
       <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
       <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />
