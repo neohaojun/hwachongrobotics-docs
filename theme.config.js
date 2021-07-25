@@ -42,11 +42,11 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
+  defaultMenuCollapsed: true,
   search: true,
   prevLinks: true,
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: false,
-  defaultMenuCollapsed: true,
   footerText: <>© {new Date().getFullYear()}, Hwa Chong Robotics. Powered by Nextra. <br />This website only contains documentation. <a href="https://robo.infocommsociety.com/" target="_blank">Hwa Chong Robotics Main Website</a>.</>,
 }
