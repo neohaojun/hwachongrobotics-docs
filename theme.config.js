@@ -24,6 +24,7 @@ export default {
       <meta name="twitter:url" content="https://hwachongrobotics.vercel.app" />
       <meta name="og:title" content="Documentation - Hwa Chong Robotics" />
       <meta name="og:image" content="https://hwachongrobotics.vercel.app/og.png" />
+      <meta name="og:url" content="https://hwachongrobotics.vercel.app/" />
       <meta name="apple-mobile-web-app-title" content="Hwa Chong Robotics" />
       <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
       <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
@@ -46,5 +47,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: false,
+  defaultMenuCollapsed: true,
   footerText: <>© {new Date().getFullYear()}, Hwa Chong Robotics. Powered by Nextra. <br />This website only contains documentation. <a href="https://robo.infocommsociety.com/" target="_blank">Hwa Chong Robotics Main Website</a>.</>,
 }
