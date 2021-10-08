@@ -1,6 +1,6 @@
 export default {
   repository: 'https://github.com/neohaojun/hwachongrobotics',
-  titleSuffix: ' | HCRC',
+  titleSuffix: ' | HCRC Documentation',
   logo: (
     <>
       <span><img src="/ms-icon-144x144.png" height="30px" width="30px" /></span>
@@ -42,11 +42,11 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
-  defaultMenuCollapsed: true,
+  defaultMenuCollapsed: false,
   search: true,
   prevLinks: true,
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: false,
-  footerText: <>© {new Date().getFullYear()}, Hwa Chong Robotics. Powered by Nextra. <br />This website only contains documentation. <a href="https://robo.infocommsociety.com/" target="_blank">Hwa Chong Robotics Main Website</a>.</>,
+  footerText: <>© {new Date().getFullYear()}, Hwa Chong Robotics. Powered by Nextra. <br />This website only contains documentation. Visit the <a href="https://robo.infocommsociety.com/" target="_blank">Hwa Chong Robotics Main Website</a>.</>,
 }
